@@ -28,6 +28,15 @@
           "generic": "https://github.com/Midnight-Oasis/NoodleCraft-2/releases/download/v2.1.1/NoodleCraft.2-v2.1.1.zip"
         }
       }
+    },
+    {
+      "id": "2.1.1b",
+      "releasedAt": 1709634266,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/Midnight-Oasis/NoodleCraft-2/releases/download/v2.1.1b/NoodleCraft.2-v2.1.1b.zip"
+        }
+      }
     }
   ]
 }
